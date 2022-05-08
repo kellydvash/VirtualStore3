@@ -1,0 +1,3 @@
+public enum Rank {
+    REGULAR_WORKER, MANAGER, MEMBER_IN_MANAGEMENT_TEAM
+}
